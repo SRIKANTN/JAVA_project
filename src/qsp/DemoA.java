@@ -9,6 +9,7 @@ public class DemoA
 	public void testA()
 	{
 		Reporter.log("AFD",true);
+		Reporter.log("Implementation",true);
 	}
 
 }
